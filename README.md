@@ -1,5 +1,7 @@
 # Full Stack Deep Learning
 
+[![Join the chat at https://gitter.im/full-stack-deep-learning/fsdl-course](https://badges.gitter.im/full-stack-deep-learning/fsdl-course.svg)](https://gitter.im/full-stack-deep-learning/fsdl-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About this course
 
 ## Who is this for
