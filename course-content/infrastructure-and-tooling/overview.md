@@ -6,6 +6,8 @@ description: What are the components of a machine learning system?
 
 {% embed url="https://www.youtube.com/watch?v=\_pLe7\_b5tGc" %}
 
+## Summary
+
 * Google's seminal paper "Machine Learning: The High-Interest Credit Card of Technical Debt" states that if we look at the whole machine learning system, the actual modeling code is very small. There are a lot of other code around it that configure the system, extract the data/features, test the model performance, manage processes/resources, and serve/deploy the model.
 * The **data component:**
   * Data Storage - How to store the data?
@@ -26,4 +28,9 @@ description: What are the components of a machine learning system?
   * Interchange - How to deploy models across systems?
   * Monitoring - How to monitor model predictions?
 * All-In-One: There are solutions that handle all of these components!
+
+## Other Resources
+
+* Whatever
+* Whatever
 
