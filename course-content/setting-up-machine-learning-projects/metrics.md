@@ -1,5 +1,5 @@
 ---
-description: How do you pick metrics to optimize for your machine learning project?
+description: How do you pick metrics to optimize your machine learning project?
 ---
 
 # Metrics

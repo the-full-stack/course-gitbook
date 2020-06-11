@@ -1,5 +1,5 @@
 ---
-description: 'TODO: overall summary'
+description: The 5 Steps To Set Your Machine Learning Projects Up For Success
 ---
 
 # Setting up Machine Learning Projects

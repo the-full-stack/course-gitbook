@@ -18,5 +18,3 @@
 
 ## Guest Lectures
 
-
-
