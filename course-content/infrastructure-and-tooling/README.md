@@ -2,7 +2,7 @@
 description: The Training and Evaluation Phases of Your Machine Learning Workflow
 ---
 
-# Infrastructure & Tooling
+# Infrastructure and Tooling
 
 ![](../../.gitbook/assets/tools.png)
 
