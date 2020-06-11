@@ -4,7 +4,7 @@ description: What is the lifecycle of a machine learning project?
 
 # Lifecycle
 
-{% embed url="https://www.youtube.com/watch?v=JzfR8pOtxZc" %}
+{% embed url="https://www.youtube.com/watch?v=JzfR8pOtxZc" caption="Lifecycle - ML Projects" %}
 
 * Phase 1 is **Project Planning and Project Setup**: At this phase, we want to decide the problem to work on, determine the requirements and goals, as well as figure out how to allocate resources properly.
 * Phase 2 is **Data Collection and Data Labeling**: At this phase, we want to collect training data \(images, text, tabular, etc.\) and potentially annotate them with ground truth, depending on the specific sources where they come from.

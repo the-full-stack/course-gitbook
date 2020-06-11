@@ -4,7 +4,7 @@ description: What are the components of a machine learning system?
 
 # Overview
 
-{% embed url="https://www.youtube.com/watch?v=\_pLe7\_b5tGc" %}
+{% embed url="https://www.youtube.com/watch?v=\_pLe7\_b5tGc" caption="Overview - Infrastructure and Tooling" %}
 
 ## Summary
 

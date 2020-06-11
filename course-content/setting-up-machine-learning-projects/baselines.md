@@ -6,7 +6,7 @@ description: >-
 
 # Baselines
 
-{% embed url="https://www.youtube.com/watch?v=wfTk7Lb9uPg" %}
+{% embed url="https://www.youtube.com/watch?v=wfTk7Lb9uPg" caption="Baselines - ML Projects" %}
 
 * A **baseline** is a model that is both simple to set up and has a reasonable chance of providing decent results. It gives you a lower bound on expected model performance.
 * Your choice of a simple baseline depends on the kind of data you are working with and the kind of task you are targeting.

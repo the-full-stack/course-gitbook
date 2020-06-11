@@ -1,10 +1,10 @@
 ---
-description: TODO overall summary
+description: The Training and Evaluation Phases of Your Machine Learning Workflow
 ---
 
 # Infrastructure & Tooling
 
-![](../../.gitbook/assets/cleanshot-2020-06-08-at-12.04.06-2x.png)
+![](../../.gitbook/assets/tools.png)
 
 {% page-ref page="overview.md" %}
 

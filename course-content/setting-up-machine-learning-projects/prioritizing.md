@@ -4,7 +4,7 @@ description: How do you decide which machine learning projects to work on?
 
 # Prioritizing
 
-{% embed url="https://www.youtube.com/watch?v=Dx3hKmNJ-1E" %}
+{% embed url="https://www.youtube.com/watch?v=Dx3hKmNJ-1E" caption="Prioritizing - ML Projects" %}
 
 * The project should have **high impact,** where cheap prediction is valuable for the complex parts of your business process.
 * The project should have **high feasibility,** which is driven by the data availability, accuracy requirements, and problem difficulty.

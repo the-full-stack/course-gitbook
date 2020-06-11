@@ -4,7 +4,7 @@ description: How do you pick metrics to optimize your machine learning project?
 
 # Metrics
 
-{% embed url="https://www.youtube.com/watch?v=-US7jrlz3wM" %}
+{% embed url="https://www.youtube.com/watch?v=-US7jrlz3wM" caption="Metrics - ML Projects" %}
 
 * In most real-world projects, you usually care about a lot of metrics. Because machine learning systems work best when optimizing a single number, you need to pick a formula for combining different metrics of interest.
 * The first way is to do a simple **average** \(or **weighted average**\) of these metrics.
