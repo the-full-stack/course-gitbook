@@ -24,6 +24,13 @@
   * [Team Structure](course-content/ml-teams/team-structure.md)
   * [Managing Projects](course-content/ml-teams/managing-projects.md)
   * [Hiring](course-content/ml-teams/hiring.md)
+* [Data Management](course-content/data-management/README.md)
+  * [Overview](course-content/data-management/overview.md)
+  * [Sources](course-content/data-management/sources.md)
+  * [Labeling](course-content/data-management/labeling.md)
+  * [Storage](course-content/data-management/storage.md)
+  * [Versioning](course-content/data-management/versioning.md)
+  * [Processing](course-content/data-management/processing.md)
 
 ## Guest Lectures
 
