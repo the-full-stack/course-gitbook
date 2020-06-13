@@ -31,6 +31,14 @@
   * [Storage](course-content/data-management/storage.md)
   * [Versioning](course-content/data-management/versioning.md)
   * [Processing](course-content/data-management/processing.md)
+* [Troubleshooting](course-content/troubleshooting/README.md)
+  * [Overview](course-content/troubleshooting/overview.md)
+  * [Start Simple](course-content/troubleshooting/start-simple.md)
+  * [Debug](course-content/troubleshooting/debug.md)
+  * [Evaluate](course-content/troubleshooting/evaluate.md)
+  * [Improve](course-content/troubleshooting/improve.md)
+  * [Tune](course-content/troubleshooting/tune.md)
+  * [Conclusion](course-content/troubleshooting/conclusion.md)
 
 ## Guest Lectures
 
