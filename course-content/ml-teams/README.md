@@ -1,4 +1,10 @@
+---
+description: How To Build Your Machine Learning Teams Effectively
+---
+
 # Machine Learning Teams
+
+![](../../.gitbook/assets/team-structures.png)
 
 {% page-ref page="overview.md" %}
 
