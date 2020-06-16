@@ -2,7 +2,7 @@
 description: How To Troubleshoot Your Deep Learning Models
 ---
 
-# Troubleshooting
+# Training and Debugging
 
 ![](../../.gitbook/assets/debugging_overview.jpg)
 

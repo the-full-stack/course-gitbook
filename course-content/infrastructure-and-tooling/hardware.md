@@ -1,10 +1,12 @@
 ---
-description: How to choose an appropriate hardware for your compute needs?
+description: >-
+  How to choose appropriate hardware for your compute needs? Should you compute
+  in the cloud or using your own GPUs?
 ---
 
-# Hardware
+# Computing and GPUs
 
-
+{% embed url="https://youtu.be/S8nLrIj7sM0" %}
 
 ## Summary
 
