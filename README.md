@@ -16,5 +16,27 @@
 
 {% page-ref page="course-content/infrastructure-and-tooling/" %}
 
+{% page-ref page="course-content/data-management/" %}
+
+{% page-ref page="course-content/ml-teams/" %}
+
+{% page-ref page="course-content/training-and-debugging/" %}
+
+{% page-ref page="course-content/testing-and-deployment/" %}
+
+{% page-ref page="course-content/research-areas.md" %}
+
 ## Guest Lectures
+
+{% page-ref page="guest-lectures/xavier-amatriain.md" %}
+
+{% page-ref page="guest-lectures/chip-huyen-nvidia.md" %}
+
+{% page-ref page="guest-lectures/lukas-biewald-weights-and-biases.md" %}
+
+{% page-ref page="guest-lectures/jeremy-howard-fast.ai.md" %}
+
+{% page-ref page="guest-lectures/richard-socher-salesforce.md" %}
+
+
 
