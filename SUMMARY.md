@@ -41,14 +41,23 @@
   * [Improve](course-content/training-and-debugging/improve.md)
   * [Tune](course-content/training-and-debugging/tune.md)
   * [Conclusion](course-content/training-and-debugging/conclusion.md)
-* [Testing and Deployment](course-content/testing-and-deployment.md)
+* [Testing and Deployment](course-content/testing-and-deployment/README.md)
+  * [Project Structure](course-content/testing-and-deployment/project-structure.md)
+  * [ML Test Score](course-content/testing-and-deployment/ml-test-score.md)
+  * [CI / Testing](course-content/testing-and-deployment/ci-testing.md)
+  * [Docker](course-content/testing-and-deployment/docker.md)
+  * [Web Deployment](course-content/testing-and-deployment/web-deployment.md)
+  * [Monitoring](course-content/testing-and-deployment/monitoring.md)
+  * [Hardware/Mobile](course-content/testing-and-deployment/hardware-mobile.md)
 * [Research Areas](course-content/research-areas.md)
 
 ## Guest Lectures
 
 * [Xavier Amatriain \(Curai\)](guest-lectures/xavier-amatriain.md)
-* [Franziska Bell \(Uber\)](guest-lectures/franziska-bell-uber.md)
 * [Chip Huyen \(Nvidia\)](guest-lectures/chip-huyen-nvidia.md)
+* [Lukas Biewald \(Weights & Biases\)](guest-lectures/lukas-biewald-weights-and-biases.md)
+* [Jeremy Howard \(Fast.ai\)](guest-lectures/jeremy-howard-fast.ai.md)
+* [Richard Socher \(Salesforce\)](guest-lectures/richard-socher-salesforce.md)
 
 ## Corporate Training and Certification <a id="certification"></a>
 
