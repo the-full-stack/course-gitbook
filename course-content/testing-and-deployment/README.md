@@ -4,7 +4,7 @@ description: The Testing and Deployment Phase of Your Machine Learning Workflow
 
 # Testing and Deployment
 
-![](../../.gitbook/assets/cleanshot-2020-06-16-at-17.42.58-2x.png)
+![](../../.gitbook/assets/deployment.png)
 
 {% page-ref page="project-structure.md" %}
 
