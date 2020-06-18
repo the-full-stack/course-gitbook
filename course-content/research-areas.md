@@ -6,7 +6,7 @@ description: >-
 
 # Research Areas
 
-{% embed url="https://youtu.be/OMraS0GRWK0" %}
+{% embed url="https://youtu.be/OMraS0GRWK0" caption="Research Areas" %}
 
 
 
