@@ -8,7 +8,7 @@ description: How to start simple with deep learning models?
 
 ## Summary
 
-* **Choose a simple architecture**:
+* **Choose simple architecture**:
   * LeNet/ResNet for images.
   * LSTM for sequences.
   * Fully-connected network with one hidden layer for all other tasks.

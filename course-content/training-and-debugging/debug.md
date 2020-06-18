@@ -11,7 +11,7 @@ description: How to implement and debug deep learning models?
 * The 5 most common bugs in deep learning models include:
   * Incorrect shapes for tensors.
   * Pre-processing inputs incorrectly.
-  * Incorrect input to loss function.
+  * Incorrect input to the loss function.
   * Forgot to set up train mode for the network correctly.
   * Numerical instability - inf/NaN.
 * 3 pieces of general advice for implementing models:
