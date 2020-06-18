@@ -18,5 +18,5 @@ description: How to choose between different machine learning platforms?
 * **FloydHub** is another managed cloud platform for data scientists.
 * **Paperspace** provides a solution for accessing computing power via the cloud and offers it through an easy-to-use console where everyday consumers can just click a button to log into their upgraded, more powerful remote machine.
 * **Determined AI** is a startup that creates software to handle everything from managing cluster compute resources to automating workflows, thereby putting some of that big-company technology within reach of any organization.
-* **Domino Data Lab** is an integrated end-to-end platform that is language agnostic, having a rich functionality for version control and collaboration; as well as one-click infrastructure scalability, deployment and publishing .
+* **Domino Data Lab** is an integrated end-to-end platform that is language agnostic, having a rich functionality for version control and collaboration; as well as one-click infrastructure scalability, deployment, and publishing.
 
