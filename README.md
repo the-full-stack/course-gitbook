@@ -1,3 +1,9 @@
+---
+description: >-
+  Full Stack Deep Learning helps you bridge the gap from training machine
+  learning models to deploying AI systems in the real world.
+---
+
 # Full Stack Deep Learning
 
 [![Join the chat at https://gitter.im/full-stack-deep-learning/fsdl-course](https://badges.gitter.im/full-stack-deep-learning/fsdl-course.svg)](https://gitter.im/full-stack-deep-learning/fsdl-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -20,9 +26,9 @@ This course was originally taught as an in-person bootcamp in Berkeley from 2018
 
 In addition to the lecture materials, you should also take a look at:
 
-* The discussion page for the course on Gitter: [https://gitter.im/full-stack-deep-learning/fsdl-course?utm\_source=badge&utm\_medium=badge&utm\_campaign=pr-badge&utm\_content=badge](https://gitter.im/full-stack-deep-learning/fsdl-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* The course project: [https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
-* The Github page for this course. If any of the material is out of date, you can submit a pull request.
+* The discussion page for the course on [Gitter](https://gitter.im/full-stack-deep-learning/fsdl-course)
+* The course project is on [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
+* The Github page for this course. If any of the material is out of date, you can submit a pull request!
 
 ## Who is this for
 
@@ -32,16 +38,11 @@ The course is aimed at people who already know the basics of deep learning and w
 * At least one deep learning course \(can be online\).
 * Experience with code versioning, Unix environments, and software engineering.
 
-We will not review the fundamentals of deep learning \(gradient descent, backpropagation, convolutional neural networks, recurrent neural networks, etc\), so you should review those materials first if you are rusty.  
-
+We will not review the fundamentals of deep learning \(gradient descent, backpropagation, convolutional neural networks, recurrent neural networks, etc\), so you should review those materials first if you are rusty.
 
 ## Instructors
 
-![Pieter Abbeel  Co-Founder, President, And Chief Scientist Of Covariant.AI, Professor At UC Berkeley](.gitbook/assets/image.png)
-
-![Co-Founder Of Gradescope, Head Of AI For STEM At Turnitin](.gitbook/assets/image%20%281%29.png)
-
-![Founder of stealth machine learning startup, former research scientist at OpenAI](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/cleanshot-2020-06-30-at-15.20.32-2x.png)
 
 ## Organizers
 
