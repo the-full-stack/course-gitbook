@@ -22,7 +22,7 @@ There are many great courses to learn how to train deep neural networks. However
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-This course was originally taught as an in-person bootcamp in Berkeley from 2018 - 2019.  
+This course was originally taught as an in-person bootcamp in Berkeley from 2018 - 2019. It was also taught as a University of Washington Computer Science [PMP course](https://bit.ly/uwfsdl) in Spring 2020.
 
 In addition to the lecture materials, you should also take a look at:
 
