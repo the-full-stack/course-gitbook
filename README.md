@@ -24,29 +24,27 @@ There are many great courses to learn how to train deep neural networks. However
 
 This course was originally taught as an in-person bootcamp in Berkeley from 2018 - 2019. It was also taught as a University of Washington Computer Science [PMP course](https://bit.ly/uwfsdl) in Spring 2020.
 
-In addition to the lecture materials, you should also take a look at:
+The discussion page for the course on [Gitter](https://gitter.im/full-stack-deep-learning/fsdl-course).
 
-* The discussion page for the course on [Gitter](https://gitter.im/full-stack-deep-learning/fsdl-course)
-* The course project is on [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project)
-* The Github page for this course. If any of the material is out of date, you can submit a pull request!
+The course project is on [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project).
+
+{% hint style="info" %}
+Please [submit a pull request](https://github.com/full-stack-deep-learning/course-gitbook) if any information is out of date! 
+{% endhint %}
 
 ## Who is this for
 
 The course is aimed at people who already know the basics of deep learning and want to understand the rest of the process of creating production deep learning systems. You will get the most out of this course if you have:
 
 * At least one year experience programming in Python.
-* At least one deep learning course \(can be online\).
+* At least one deep learning course \(at a university or online\).
 * Experience with code versioning, Unix environments, and software engineering.
 
 We will not review the fundamentals of deep learning \(gradient descent, backpropagation, convolutional neural networks, recurrent neural networks, etc\), so you should review those materials first if you are rusty.
 
-## Instructors
-
-![](.gitbook/assets/cleanshot-2020-06-30-at-15.20.32-2x.png)
-
 ## Organizers
 
-* Web course designed by Josh Tobin, Pieter Abbeel, Sergey Karayev, James Le, and Stephanie Sher
+![](.gitbook/assets/cleanshot-2020-07-01-at-22.41.53-2x.png)
 
 ## Course Content
 

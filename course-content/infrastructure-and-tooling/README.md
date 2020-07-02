@@ -6,7 +6,11 @@ description: The Training and Evaluation Phases of Your Machine Learning Workflo
 
 ![The landscape of infrastructure and tooling for deep learning](../../.gitbook/assets/tools.png)
 
-{% embed url="https://www.slideshare.net/sergeykarayev/infrastructure-and-tooling-full-stack-deep-learning" caption="The entire slide deck. Go to the next page for video!" %}
+### Slides
+
+{% embed url="https://www.slideshare.net/sergeykarayev/infrastructure-and-tooling-full-stack-deep-learning" caption="Slides for the entire module. Go to the next page for the first video!" %}
+
+### Videos
 
 {% page-ref page="overview.md" %}
 

@@ -7,7 +7,7 @@ description: How To Set Your Machine Learning Projects Up For Success
 ![](../../.gitbook/assets/cleanshot-2020-06-08-at-12.01.58-2x.png)
 
 {% hint style="info" %}
-As always, please [submit a pull request](https://github.com) if any information is out of date! 
+As always, please [submit a pull request](https://github.com/full-stack-deep-learning/course-gitbook) if any information is out of date! 
 {% endhint %}
 
 {% page-ref page="overview.md" %}
