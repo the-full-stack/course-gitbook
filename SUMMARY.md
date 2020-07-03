@@ -54,10 +54,15 @@
 ## Guest Lectures
 
 * [Xavier Amatriain \(Curai\)](guest-lectures/xavier-amatriain.md)
+* [Jeremy Howard \(Fast.ai\)](guest-lectures/jeremy-howard-fast.ai.md)
 * [Chip Huyen \(Nvidia\)](guest-lectures/chip-huyen-nvidia.md)
 * [Lukas Biewald \(Weights & Biases\)](guest-lectures/lukas-biewald-weights-and-biases.md)
-* [Jeremy Howard \(Fast.ai\)](guest-lectures/jeremy-howard-fast.ai.md)
 * [Richard Socher \(Salesforce\)](guest-lectures/richard-socher-salesforce.md)
+* [Raquel Urtasun \(Uber ATG\)](guest-lectures/raquel-urtasun-uber-atg.md)
+* [Yangqing Jia \(Alibaba\)](guest-lectures/yangqing-jia-alibaba.md)
+* [Andrej Karpathy \(Tesla\)](guest-lectures/andrej-karpathy-tesla.md)
+* [Jai Ranganathan \(KeepTruckin\)](guest-lectures/jai-ranganathan-keeptruckin.md)
+* [Franziska Bell \(Toyota Research\)](guest-lectures/franziska-bell-toyota-research.md)
 
 ## Corporate Training and Certification <a id="certification"></a>
 

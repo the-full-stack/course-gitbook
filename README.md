@@ -46,6 +46,10 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 
 ![](.gitbook/assets/cleanshot-2020-07-01-at-22.41.53-2x.png)
 
+## Guest Lectures
+
+![](.gitbook/assets/cleanshot-2020-07-02-at-17.34.50-2x.png)
+
 ## Course Content
 
 {% page-ref page="course-content/setting-up-machine-learning-projects/" %}
