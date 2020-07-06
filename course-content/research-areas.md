@@ -6,9 +6,15 @@ description: >-
 
 # Research Areas
 
+### Video
+
 {% embed url="https://youtu.be/OMraS0GRWK0" caption="Research Areas" %}
 
-## A Sampling of Research Directions
+### Slides
+
+{% embed url="https://www.slideshare.net/sergeykarayev/research-directions-full-stack-deep-learning" %}
+
+## Summary
 
 ### Few-Shot Learning
 
