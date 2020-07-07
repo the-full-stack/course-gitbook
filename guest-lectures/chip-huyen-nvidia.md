@@ -1,7 +1,8 @@
 ---
 description: >-
   Chip created the TensorFlow for Deep Learning Research course at Stanford
-  University. She currently works on the AI Applications team at Nvidia.
+  University, has worked on the AI Applications team at Nvidia, and has
+  published many popular resources for ML Engineers.
 ---
 
 # Chip Huyen \(Nvidia\)
