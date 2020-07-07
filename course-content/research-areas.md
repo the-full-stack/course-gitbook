@@ -6,13 +6,13 @@ description: >-
 
 # Research Areas
 
-### Video
-
-{% embed url="https://youtu.be/OMraS0GRWK0" caption="Research Areas" %}
-
-### Slides
+## Slides
 
 {% embed url="https://www.slideshare.net/sergeykarayev/research-directions-full-stack-deep-learning" %}
+
+## Video
+
+{% embed url="https://youtu.be/OMraS0GRWK0" caption="Research Areas as explained by Professor Pieter Abbeel." %}
 
 ## Summary
 
@@ -56,17 +56,17 @@ description: >-
 * **Contrastive Predictive Coding** is an unsupervised learning scheme that breaks up the input into pieces, removes specific pieces, and asks the network to fill those pieces back in the final output.
 * A well-known example is the **OpenAI's GPT-2 system** that can generate text.
 
-## Overall Research Theme
+### Overall Research Theme
 
 * Researchers use more computing power to get better results.
 * You should focus on problem territory with a lot of **data** and **compute** than human ingenuity.
 
-## Bridge The Research and Real-World Gap
+### Bridge The Research and Real-World Gap
 
 * **Research** is about going from 0 to 1.
 * In **real-world** applications, often 90% performance is not enough.
 
-## How To Keep Up
+### How To Keep Up
 
 * Learn to read academic papers.
 * Helpful resources to get papers are Import AI newsletter, Arxiv Sanity, Twitter, Facebook Groups, and ML Subreddit.

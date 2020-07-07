@@ -29,7 +29,7 @@ The discussion page for the course on [Gitter](https://gitter.im/full-stack-deep
 The course project is on [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project).
 
 {% hint style="info" %}
-Please [submit a pull request](https://github.com/full-stack-deep-learning/course-gitbook) if any information is out of date! 
+Please [submit a pull request](https://github.com/full-stack-deep-learning/course-gitbook) if any information is out of date or if you have good additional info to add!
 {% endhint %}
 
 ## Who is this for
@@ -77,6 +77,16 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 {% page-ref page="guest-lectures/jeremy-howard-fast.ai.md" %}
 
 {% page-ref page="guest-lectures/richard-socher-salesforce.md" %}
+
+{% page-ref page="guest-lectures/raquel-urtasun-uber-atg.md" %}
+
+{% page-ref page="guest-lectures/yangqing-jia-alibaba.md" %}
+
+{% page-ref page="guest-lectures/andrej-karpathy-tesla.md" %}
+
+{% page-ref page="guest-lectures/jai-ranganathan-keeptruckin.md" %}
+
+{% page-ref page="guest-lectures/franziska-bell-toyota-research.md" %}
 
 
 
