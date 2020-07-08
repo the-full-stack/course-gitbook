@@ -6,7 +6,7 @@ description: >-
 
 # Xavier Amatriain \(Curai\)
 
-{% embed url="https://youtu.be/5ygO8FxNB8c" caption="Lessons Learned From Building Practice Deep Learning Systems" %}
+{% embed url="https://youtu.be/5ygO8FxNB8c" caption="Lessons Learned From Building Practical Deep Learning Systems" %}
 
 ### Lesson 1 - More Data or Better Models?
 
