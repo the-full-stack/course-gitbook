@@ -50,7 +50,6 @@
   * [Monitoring](course-content/testing-and-deployment/monitoring.md)
   * [Hardware/Mobile](course-content/testing-and-deployment/hardware-mobile.md)
 * [Research Areas](course-content/research-areas.md)
-* [Where to go next](course-content/where-to-go-next.md)
 
 ## Guest Lectures
 
