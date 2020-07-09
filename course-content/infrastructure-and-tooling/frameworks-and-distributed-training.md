@@ -16,6 +16,7 @@ description: >-
 * Distributed training of neural networks can be approached in 2 ways: \(1\) data parallelism and \(2\) model parallelism.
 * Practically, **data parallelism** is more popular and frequently employed in large organizations for executing production-level deep learning algorithms.
 * **Model parallelism**, on the other hand, is only necessary when a model does not fit on a single GPU.
-* **Ray** is an open-source project for effortless, stateful, parallel, and distributed computing in Python.
+* [**Ray**](http://docs.ray.io/) is an open-source project for effortless, stateful, parallel, and distributed computing in Python.
+* [**RaySGD**](https://docs.ray.io/en/latest/raysgd/raysgd_pytorch.html) is a library for distributed data parallel training that provides fault tolerance and seamless parallelization, built on top of [**Ray**](http://docs.ray.io/).
 * **Horovod** is Uber’s open-source distributed deep learning framework that uses a standard multi-process communication framework, so it can be an easier experience for multi-node training.
 
