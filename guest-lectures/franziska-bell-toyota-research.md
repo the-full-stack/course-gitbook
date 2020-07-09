@@ -6,5 +6,5 @@ description: >-
 
 # Franziska Bell \(Toyota Research\)
 
-Please stand by: we are working with Uber to be able to release Francizska's lecture video!
+Please stand by: we are working with Uber to be able to release Franziska's lecture video!
 
