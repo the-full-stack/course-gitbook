@@ -50,6 +50,10 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 
 ![](.gitbook/assets/cleanshot-2020-07-02-at-17.34.50-2x.png)
 
+## Newsletter
+
+{% embed url="https://forms.gle/mDQZxsLZmep8JFgx9" %}
+
 ## Course Content
 
 {% page-ref page="course-content/setting-up-machine-learning-projects/" %}
