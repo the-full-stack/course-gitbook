@@ -41,7 +41,7 @@ description: >-
 
 #### Architecture Design
 
-![](../.gitbook/assets/mqan-architecture.png)
+![Multi-Task Question Answering Network Architecture](../.gitbook/assets/mqan-architecture.png)
 
 ### [decaNLP: A Benchmark for Generalized NLP](https://github.com/salesforce/decaNLP)
 
