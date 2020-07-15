@@ -4,5 +4,7 @@ description: "Andrej is currently Senior Director of AI at Tesla,\L and was form
 
 # Andrej Karpathy \(Tesla\)
 
-Coming soon!
+{% embed url="https://youtu.be/ZVJTqAuPvTU" %}
+
+
 
