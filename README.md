@@ -48,7 +48,7 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 
 ## Guest Lectures
 
-![](.gitbook/assets/cleanshot-2020-07-02-at-17.34.50-2x.png)
+![](.gitbook/assets/cleanshot-2020-07-16-at-12.49.50-2x.jpg)
 
 ## Newsletter
 

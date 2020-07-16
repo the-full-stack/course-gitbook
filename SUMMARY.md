@@ -56,7 +56,7 @@
 ## Guest Lectures
 
 * [Xavier Amatriain \(Curai\)](guest-lectures/xavier-amatriain.md)
-* [Chip Huyen \(Nvidia\)](guest-lectures/chip-huyen-nvidia.md)
+* [Chip Huyen \(Snorkel\)](guest-lectures/chip-huyen-nvidia.md)
 * [Lukas Biewald \(Weights & Biases\)](guest-lectures/lukas-biewald-weights-and-biases.md)
 * [Jeremy Howard \(Fast.ai\)](guest-lectures/jeremy-howard-fast.ai.md)
 * [Richard Socher \(Salesforce\)](guest-lectures/richard-socher-salesforce.md)
