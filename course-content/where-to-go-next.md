@@ -10,6 +10,7 @@ This section is mostly up to you! [Submit a pull request](https://github.com/ful
 
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) \(by The Institute for Ethical AI & Machine Learning\)
 * [MLOps References](https://ml-ops.org/content/references.html) \(by InnoQ\)
+* [ML Applied in Production](https://github.com/eugeneyan/applied-ml)\(by Eugeneyan \)
 
 ## Tutorials
 
