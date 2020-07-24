@@ -14,5 +14,5 @@ description: How to deploy your models to the web?
   * You can deploy the code as a “server-less function.”
   * You can deploy the code via a model serving solution.
 * If you are making **CPU inference**, you can get away with scaling by launching more servers \(Docker\), or going serverless \(AWS Lambda\).
-* If you are using **GPU inference**, things like TF Serving and Clipper become useful with features such as adaptive batching.
+* If you are using **GPU inference**, things like TF Serving and [Ray Serve](https://docs.ray.io/en/latest/serve/index.html#rayserve) become useful with features such as adaptive batching.
 
