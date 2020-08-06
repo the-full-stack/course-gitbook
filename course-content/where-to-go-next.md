@@ -22,6 +22,7 @@ This section is mostly up to you! [Submit a pull request](https://github.com/ful
 
 ## Personal Blogs
 
+* [Locally Optimistic](https://locallyoptimistic.com/) \(Data Leaders in NYC\)
 * [MLOps Tooling Landscape](https://huyenchip.com/2020/06/22/mlops.html) \(by Chip Huyen\)
 * [Three Risks in Building Machine Learning Systems](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html) \(by Benjamin Cohen\)
 * [How To Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/) \(by Bugra Akyildiz\)
