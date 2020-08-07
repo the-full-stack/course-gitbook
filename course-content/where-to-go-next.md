@@ -28,6 +28,8 @@ This section is mostly up to you! [Submit a pull request](https://github.com/ful
 * [How To Serve Models](http://bugra.github.io/posts/2020/5/25/how-to-serve-model/) \(by Bugra Akyildiz\)
 * [Nitpicking ML Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/) \(by Matthew McAteer\)
 * [Monitoring ML Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/) \(by Christopher Samiullah\)
+* [Models for integrating data science teams within organizations](https://medium.com/@djpardis/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd) \(Pardis Noorzad\)
+* [Data-as-a-Product vs Data-as-a-Service](https://medium.com/@itunpredictable/data-as-a-product-vs-data-as-a-service-d9f7e622dc55) \(Justin Gage\)
 
 ## Corporate Blogs
 
