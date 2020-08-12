@@ -39,6 +39,7 @@ This section is mostly up to you! [Submit a pull request](https://github.com/ful
 * [Tecton: The Data Platform for Machine Learning](https://www.tecton.ai/blog/data-platform-ml/) \(by Tecton\)
 * [Why We Need DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/) \(by Tecton\)
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) \(by ThoughtWorks\)
+* [Dagster: The Data Orchestrator](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb) \(by Elementl\)
 
 ## Repositories
 
