@@ -34,12 +34,14 @@ This section is mostly up to you! [Submit a pull request](https://github.com/ful
 ## Corporate Blogs
 
 * [The New Business of AI](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/) \(by a16z\)
+* [Long-Tailed AI Problems](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/) \(by a16z\)
 * [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml) \(by Google\)
 * [Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) \(by Google\)
 * [Tecton: The Data Platform for Machine Learning](https://www.tecton.ai/blog/data-platform-ml/) \(by Tecton\)
 * [Why We Need DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/) \(by Tecton\)
 * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) \(by ThoughtWorks\)
 * [Dagster: The Data Orchestrator](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb) \(by Elementl\)
+* [State of Machine Learning Model Servers In Production](https://anyscale.com/blog/heres-what-you-need-to-look-for-in-a-model-server-to-build-ml-powered-services/) \(by Anyscale\)
 
 ## Repositories
 
