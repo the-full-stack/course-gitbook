@@ -12,5 +12,5 @@ description: >-
 * Your choice of a simple baseline depends on the kind of data you are working with and the kind of task you are targeting.
 * You can look for **external baselines** such as business and engineering requirements, as well as published results from academic papers that tackle your problem domain.
 * You can also look for **internal baselines** using simple models and human performance.
-* Broadly speaking, the higher the quality of your baselines are, the easier it is to label more data. More specialized domains require more skilled labelers, so you should find cases where the model performs worse and concentrate the data collection effort there.
+* There is a tradeoff between cost and quality when designing human baselines. More specialized domains require more skilled labelers, so you should find cases where the model performs worse and concentrate the data collection effort there.
 
