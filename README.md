@@ -10,7 +10,7 @@ description: >-
 
 ## About this course
 
-Since 2012, deep learning has lead to remarkable progress across a variety of challenging computing tasks, from image recognition to speech recognition, robotics, and audio synthesis. Deep learning has the potential to enable a new set of previously infeasible technologies like autonomous vehicles, real-time translation, and voice assistants and help reinvent existing software categories.
+Since 2012, deep learning has led to remarkable progress across a variety of challenging computing tasks, from image recognition to speech recognition, robotics, and audio synthesis. Deep learning has the potential to enable a new set of previously infeasible technologies like autonomous vehicles, real-time translation, and voice assistants and help reinvent existing software categories.
 
 There are many great courses to learn how to train deep neural networks. However, training the model is just one part of shipping a deep learning project. This course teaches **full-stack production deep learning:**
 
