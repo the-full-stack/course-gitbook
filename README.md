@@ -6,6 +6,14 @@ description: >-
 
 # Full Stack Deep Learning
 
+{% hint style="info" %}
+We are teaching an updated and improved FSDL as an official UC Berkeley course Spring 2021.   
+  
+Sign up to receive updates on our lectures as they're released — and to optionally participate in a synchronous learning community.   
+  
+[**Sign up for 2021**](https://forms.gle/xSrgSPyBCkD8KnV76)\*\*\*\*
+{% endhint %}
+
 [![Join the chat at https://gitter.im/full-stack-deep-learning/fsdl-course](https://badges.gitter.im/full-stack-deep-learning/fsdl-course.svg)](https://gitter.im/full-stack-deep-learning/fsdl-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## About this course
@@ -14,11 +22,11 @@ Since 2012, deep learning has led to remarkable progress across a variety of cha
 
 There are many great courses to learn how to train deep neural networks. However, training the model is just one part of shipping a deep learning project. This course teaches **full-stack production deep learning:**
 
-*  Formulating the **problem** and estimating project **cost**
-*  Finding, cleaning, labeling, and augmenting **data**
-*  Picking the right **framework** and compute **infrastructure**
-*  **Troubleshooting** training and ensuring **reproducibility**
-*  **Deploying** the model at scale
+* Formulating the **problem** and estimating project **cost**
+* Finding, cleaning, labeling, and augmenting **data**
+* Picking the right **framework** and compute **infrastructure**
+* **Troubleshooting** training and ensuring **reproducibility**
+* **Deploying** the model at scale
 
 ![](.gitbook/assets/image%20%282%29.png)
 
@@ -52,7 +60,7 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 
 ## Newsletter
 
-{% embed url="https://forms.gle/mDQZxsLZmep8JFgx9" %}
+{% embed url="https://forms.gle/mDQZxsLZmep8JFgx9" caption="" %}
 
 ## Course Content
 
@@ -91,6 +99,4 @@ We will not review the fundamentals of deep learning \(gradient descent, backpro
 {% page-ref page="guest-lectures/jai-ranganathan-keeptruckin.md" %}
 
 {% page-ref page="guest-lectures/franziska-bell-toyota-research.md" %}
-
-
 
