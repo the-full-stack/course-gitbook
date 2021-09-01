@@ -26,7 +26,7 @@ description: How to implement and debug deep learning models?
   * **Error goes up:** Commonly this is due to a flip sign somewhere in the loss function/gradient.
   * **Error explodes:** This is usually a numerical issue, but can also be caused by a high learning rate.
   * **Error oscillates:** You can lower the learning rate and inspect the data for shuffled labels or incorrect data augmentation.
-  * **Error plateaus:** You can increase the learning rate and get rid of regulation. Then you can inspect the loss function and the data pipeline for correctness.
+  * **Error plateaus:** You can increase the learning rate and get rid of regularization. Then you can inspect the loss function and the data pipeline for correctness.
 * The third step is to **compare the model to a known result**:
   * The most useful results come from **an official model implementation** **evaluated on a similar dataset to yours**.
   * If you can’t find an official implementation on a similar dataset, you can compare your approach to results from **an official model implementation evaluated on a benchmark dataset**.
